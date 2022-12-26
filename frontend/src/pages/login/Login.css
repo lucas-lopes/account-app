@@ -1,0 +1,25 @@
+.login {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-form {
+    width: 30%;
+    padding: 30px 25px 0 25px !important;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.login-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.button-style {
+    margin: 0 10px;
+}

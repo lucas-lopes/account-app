@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* .container {
+    display: flex;
+    width: 100%;
+} */
+
+.navigation {
+    width: 80%;
+    flex: 1;
+}
+
+.content {
+    flex: 11;
+}
+
+a {
+    text-decoration: none;
+    color: #1677ff;
+    font-size: 14pt;
+    cursor: pointer;
+}
+
+body {
+    background-color: #f0f0f0;
+}

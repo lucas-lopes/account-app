@@ -1,0 +1,13 @@
+.test {
+    width: 90%;
+    margin: 0 100px
+}
+
+input {
+    color: black !important;
+    background-color: #fff !important;
+}
+
+.ant-form-item-control-input-content > span {
+    background-color: #fff !important;
+}

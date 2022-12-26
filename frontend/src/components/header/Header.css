@@ -1,0 +1,18 @@
+.titlePage {
+    width: 90%;
+    margin: 20px 100px;
+}
+
+.titlePage h1 {
+    margin-top: 25px;
+    display: inline;
+}
+
+.newAccount {
+    float: right;
+    font-size: 30pt;
+}
+
+.previousPath {
+    margin-right: 7px;
+}

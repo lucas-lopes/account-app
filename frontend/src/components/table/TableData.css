@@ -1,0 +1,13 @@
+.table {
+    width: 90%;
+    margin: 0 100px
+}
+
+th, td {
+    text-align: center !important;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-evenly;
+}
