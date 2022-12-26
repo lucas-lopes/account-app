@@ -1,6 +1,6 @@
 # Account App
 
-In order to study and improve my knowledge of the JavaScript stack, the company that I work for proposed to create POC (Prove of Concept) using NodeJs and React.
+In order to study and improve my knowledge of the JavaScript stack, the company that I work for proposed to create POC (Proof of Concept) using NodeJs and React.
 
 ![Account List Home](./home.png)
 
